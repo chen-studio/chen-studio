@@ -1,6 +1,7 @@
 <h1 align="center">chen-studio<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  
-- :computer: Android Engineer in [Grip](https://www.grip.show)(2023-07 ~ )
+
+- :computer: Android Engineer in [KakaoBank](https://kakaobank.com)(2025-01 ~ )
+- :computer: Android Engineer in [Grip](https://www.grip.show)(2023-07 ~ 2024-12)
 - :computer: Android Engineer in [KakaoEnterprise](https://www.kakaowork.com/)(2022-07 ~ 2023-07)
 - :computer: Intern Android Engineer in [NaverCloud](https://naver.worksmobile.com/)(2022-01 ~ 2022-02)
 - :school: 아주대학교 사이버보안학과 학사과정 졸업(2016-03 ~ 2022-02)
